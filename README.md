@@ -13,5 +13,5 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=windows,linux,debian,ubuntu,arch,kali,bash" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,debian,ubuntu,arch,bash" />
 </p>
